@@ -1,12 +1,22 @@
 
 # 👨🏻‍💻 Marcel Ferreira
 
-<img align="right" src="https://github.com/marcelelvis/marcelelvis/blob/main/foto.png" width="425"/>
+<img align="right"  src="https://github.com/marcelelvis/marcelelvis/blob/main/foto.png" width="425px"/>
 
 - 🌱 Estudante de Sistemas de computação - Univerisidade Federal Fluminense, 3° semestre.
 - 💙 Interesse: Python, Java, HTML, CSS, javaScript
 - 🔍  Atualmente aberto a novas oportunidades.
 - 🎮 Gosta de jogar um lol? É só chamar, vamos trolar umas partidas juntos haha
+
+
+# Atividades
+
+
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelelvis&layout=compact"/> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelelvis&show_icons=true&theme=dark)](https://github.com/marcelelvis/github-readme-stats)
+
 #
 ### Skills
 ![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)![Language1](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
