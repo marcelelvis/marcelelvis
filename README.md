@@ -13,7 +13,7 @@
 
 ### Contato
 
-<a target="_blank">[![Twitter Badge](https://img.shields.io/badge/-@maarcelelvis-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/maarcelelvis)](https://twitter.com/maarcelelvis)</a>
+[![Twitter Badge](https://img.shields.io/badge/-@maarcelelvis-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/maarcelelvis)](https://twitter.com/maarcelelvis)
 [![Instagram Badge](https://img.shields.io/badge/-@maarcelelvis-a44fd3?style=flat-square&labelColor=a44fd3&logo=instagram&logoColor=white&link=https://www.instagram.com/maarcelelvis)](https://www.instagram.com/maarcelelvis)
 [![LinkedIn Badge](https://img.shields.io/badge/-Marcel%20Ferreira-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcel-ferreira)](https://www.linkedin.com/in/marcel-ferreira)
 [![Gmail Badge](https://img.shields.io/badge/-marecl.elvis11@gmail.com-c13232?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcel.elvis11@gmail.com)](mailto:marcel.elvis11@gmail.com)
