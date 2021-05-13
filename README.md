@@ -20,7 +20,7 @@
 #
 ### Skills
 ![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg)![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg)![Language1](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg)![Language1](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg)
-
+#
 ### Contato
 
 [![Twitter Badge](https://img.shields.io/badge/-@maarcelelvis-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/maarcelelvis)](https://twitter.com/maarcelelvis)
