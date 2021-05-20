@@ -4,7 +4,7 @@
 <img align="right"  src="https://github.com/marcelelvis/marcelelvis/blob/main/foto.png" width="425px"/>
 
 - 🌱 Estudante de Sistemas de computação - Univerisidade Federal Fluminense, 3° semestre.
-- 💙 Interesse: Python, Java, HTML, CSS, javaScript
+- 💙 Interesse: Python, Java, HTML, CSS, javaScript e PHP
 - 🔍  Atualmente aberto a novas oportunidades.
 - 🎮 Gosta de jogar um lol? É só chamar, vamos trolar umas partidas juntos haha
 
